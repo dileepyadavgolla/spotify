@@ -1,0 +1,10 @@
+.names {
+  display: flex;
+}
+.item {
+  list-style-type: none;
+  margin: 6px;
+}
+.line {
+  width: 100%;
+}

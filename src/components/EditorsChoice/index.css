@@ -1,0 +1,17 @@
+.imageT {
+  width: 100px;
+  height: 100px;
+}
+.list-item {
+  list-style-type: none;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+  padding: 0px !important;
+  margin: 4px;
+}
+.para {
+  font-size: 14px;
+  color: white;
+  margin-bottom: 0;
+  padding: 0px;
+}
